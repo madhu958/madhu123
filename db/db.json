@@ -1,0 +1,21 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "firstname": "Avudharapu",
+      "lastname": "Madhu",
+      "email": "avudharapumadhu@gmail.com",
+      "mobile": "9581741239",
+      "fees": 10000
+    },
+    {
+      "id": 2,
+      "firstname": "Avudharapu",
+      "lastname": "Madhu",
+      "email": "avudharapumadhu@gmail.com",
+      "mobile": "9581741239",
+      "fees": 10000
+    }
+  ]
+  
+}

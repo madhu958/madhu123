@@ -1,0 +1,8 @@
+<form #mydata=ngForm (ngSubmit)="postdata(mydata.value)">
+    fname : <input type="text" name="fname" id="name" ngModel class="form-control"><br>
+    lname : <input type="text" name="lname" id="name" ngModel class="form-control"><br>
+    email : <input type="email" name="email" id="email" ngModel class="form-control"><br>
+    mobile : <input type="tel" name="mobile" id="mobile" ngModel class="form-control"><br>
+    fees : <input type="number" name="fees" id="fees" ngModel class="form-control"><br>
+    <input type="submit" value="ADD RECOORD">
+</form>
